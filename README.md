@@ -1,2 +1,1 @@
-# pPepCourse-henry
-Este es un repositorio del modulo 2 
+Este es un proyecto de como crear un respositorio y clonarlo desde gitHub a mi escritorio local 
